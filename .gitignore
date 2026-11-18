@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+rice_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset (large)
+dataset/
+
+# Model weights
+models/
+
+# Outputs
+outputs/
+gradcam_outputs/
+lime_outputs/
+xai_results/
+
+# OS files
+.DS_Store
